@@ -1,1 +1,1 @@
-This is a very simple course project of building an image recognition kNN model without ML libraries
+This is a very simple course project of building a very simple image recognition kNN. 
