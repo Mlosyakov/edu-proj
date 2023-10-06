@@ -1,4 +1,1 @@
-***Huge text***
-**Smaller text**
-*bold text*
-text
+Analysing heart disease dataset as a educational project
