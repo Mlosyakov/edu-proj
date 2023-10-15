@@ -1,1 +1,1 @@
-Analysing heart disease dataset as an educational project
+Analysing heart attack dataset as an educational project
