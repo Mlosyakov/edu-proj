@@ -1,1 +1,1 @@
-This is a very simple course project of building a very simple image recognition kNN. 
+Project of building a very simple image recognition kNN from scratch. 
